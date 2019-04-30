@@ -1,0 +1,7 @@
+<mvc:View
+   controllerName="com.cgi.workshop.fiori.controller.App" 
+   xmlns="sap.m"
+   xmlns:mvc="sap.ui.core.mvc">
+   <Input id="idInputControl" class="sapUiSmallMarginBegin" value="Workshop Fiori - Step 4" width="50%"/>
+   <Button id="idButton" text="OK" press=".onPress"/>
+</mvc:View>
